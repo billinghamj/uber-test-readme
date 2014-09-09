@@ -13,8 +13,8 @@ Each email provider has its own repository, acting as plugins to
 
 - [`resilient-mailer` Providers](//github.com/billinghamj/resilient-mailer#providers)
 
-`mailer-service` includes all `resilient-mailer` NPM packages, so you can look
-in the `node_modules` directory, rather than having to go through all the repos.
+`mailer-service` includes all NPM packages for this project, so you can look in
+the `node_modules` directory, rather than having to go through all the repos.
 All provider packages are roughly the same.
 
 ### Websites
