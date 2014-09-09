@@ -38,6 +38,10 @@ with code spanning across 7 repositories. I decided to do this on the basis that
 it demonstrates clearly how I approach & think about problems - when
 architecting systems - modularity, flexibility, testing & reuse are all key.
 
+I implemented providers for 4 email services, rather than the required 2 because
+I felt it would give me better understanding of the pros/cons of each, and help
+me decide on the object structure of 'universal' `resilient-mailer` messages.
+
 ## Trade-offs
 
 Presently, the system I've created is very basic: it sends emails, and that's
