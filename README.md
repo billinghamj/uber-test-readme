@@ -8,6 +8,11 @@ Due to its modular nature, my code is split across a number of repositories:
 - [`mailer-service`](//github.com/billinghamj/mailer-service) - an Express app exposing `resilient-mailer` as a RESTful API
 - [`mailer-app`](//github.com/billinghamj/mailer-app) - a tiny Bootstrap front-end allowing submission of emails
 
+Each email provider has its own repository, acting as plugins to
+`resilient-mailer`. You can see a list of those here:
+
+- [`resilient-mailer` Providers](//github.com/billinghamj/resilient-mailer#providers)
+
 ### Websites
 
 API docs are available for the `mailer-service` here:
