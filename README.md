@@ -1,10 +1,14 @@
 # Uber Coding Test
 
+### Repositories
+
 Due to its modular nature, my code is split across a number of repositories:
 
 - [`resilient-mailer`](//github.com/billinghamj/resilient-mailer) - a NPM package providing fault-tolerant email services
 - [`mailer-service`](//github.com/billinghamj/mailer-service) - an Express app exposing `resilient-mailer` as a RESTful API
 - [`mailer-app`](//github.com/billinghamj/mailer-app) - a tiny Bootstrap front-end allowing submission of emails
+
+### Websites
 
 API docs are available for the `mailer-service` here:
 
