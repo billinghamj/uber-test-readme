@@ -61,9 +61,10 @@ Presently, the system I've created is very basic: it sends emails, and that's
 it. Given more time, I would create a better queuing system, ways to notify
 failures later in time (e.g. after failed delivery), statistics, etc.
 
-I have detailed a number of
+`resilient-mailer` itself is currently quite primitive - particularly in its
+simplistic handling of failover events. I have detailed a number of
 [improvements](//github.com/billinghamj/resilient-mailer#future-improvements)
-which I would make to the `resilient-mailer` library.
+which I would make to the library.
 
 ## Resources
 
