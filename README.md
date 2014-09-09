@@ -22,6 +22,9 @@ as the 'from' address during testing, as this domain has SPF & DKIM set up.
 
 I chose the Email Service project, working on the back-end track.
 
+I am also very comfortable with front-end, but decided not to focus on that for
+this project.
+
 ## Choices
 
 I have used Node JS - along with some lightweight frameworks - for the entirety
